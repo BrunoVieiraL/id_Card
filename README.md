@@ -1,6 +1,7 @@
 # my_card
 
-Just a simple visitor card but in app format. Developed in Polimorfismo lessons.
+Just a simple visitor card but in app format. 
+Project developed during the Dart and Flutter course by Polimorfismo.
 
 ## Getting Started
 
