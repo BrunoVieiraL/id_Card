@@ -1,6 +1,6 @@
 # my_card
 
-Just a simple visitor card but in app format.
+Just a simple visitor card but in app format. Developed in Polimorfismo lessons.
 
 ## Getting Started
 
