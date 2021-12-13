@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
               ),
               Card(
                 margin: const EdgeInsets.symmetric(
-                    horizontal: 25.0, vertical: 10.0),
+                    horizontal: 200.0, vertical: 5.0),
                 color: Colors.blueAccent.shade400,
                 child: const ListTile(
                     leading: Icon(Icons.email_rounded),
