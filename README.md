@@ -1,10 +1,11 @@
 # my_card
 
-A new Flutter project.
+Just a simple visitor card but in app format. 
+Project developed during the Dart and Flutter course by Polimorfismo.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple project in Flutter that shows basics.
 
 A few resources to get you started if this is your first Flutter project:
 
