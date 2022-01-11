@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
               ),
               Card(
                 margin: const EdgeInsets.symmetric(
-                    horizontal: 200.0, vertical: 5.0),
+                    horizontal: 20.0, vertical: 5.0),
                 color: Colors.blueAccent.shade400,
                 child: const ListTile(
                     leading: Icon(Icons.email_rounded),
@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
               Container(
                 color: Colors.purple,
                 margin: const EdgeInsets.symmetric(
-                    horizontal: 200.0,
+                    horizontal: 20.0,
                     vertical: 5.0), //define a distancia da margem da tela
                 padding: const EdgeInsets.all(2.0),
                 child: Row(
@@ -81,7 +81,7 @@ class MyApp extends StatelessWidget {
               Container(
                 color: Colors.white,
                 margin: const EdgeInsets.symmetric(
-                    horizontal: 200.0, vertical: 5.0),
+                    horizontal: 20.0, vertical: 5.0),
                 padding: const EdgeInsets.all(2.0),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
@@ -90,9 +90,9 @@ class MyApp extends StatelessWidget {
                     Text(
                       " https://www.linkedin.com/in/bruno-vieira-818976191/",
                       style: TextStyle(
-                          letterSpacing: 1.5,
+                          letterSpacing: 1,
                           fontWeight: FontWeight.bold,
-                          fontSize: 15.0),
+                          fontSize: 10.0),
                     )
                   ],
                 ),
@@ -100,7 +100,7 @@ class MyApp extends StatelessWidget {
               Container(
                 color: Colors.orange.shade800,
                 margin: const EdgeInsets.symmetric(
-                    horizontal: 200.0, vertical: 5.0),
+                    horizontal: 20.0, vertical: 5.0),
                 padding: const EdgeInsets.all(2.0),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
